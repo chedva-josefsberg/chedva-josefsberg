@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Chedva Josefsberg 🔎
+# 👋 Hello, I'm Chedva Josefsberg🔍
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chedva-josefsberg&color=blueviolet)
 
