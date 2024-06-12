@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm Chedva Josefsberg
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet)
+![Profile Views](https://github.com/chedva-josefsberg=YOUR_GITHUB_USERNAME&color=blueviolet)
 
 ## 💻 Full-Stack Software Engineer
 
