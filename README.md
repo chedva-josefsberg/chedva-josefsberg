@@ -1,4 +1,4 @@
-```markdown
+
 # 👋 Hello, I'm Chedva Josefsberg
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet)
