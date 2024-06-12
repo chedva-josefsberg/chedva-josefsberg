@@ -50,8 +50,11 @@ I am a passionate and dedicated Full-Stack Software Engineer with a strong backg
 
 ## 📈 GitHub Stats
 
-![Chedva's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+
+![סטטיסטיקות GitHub של חדווה](https://github-readme-stats.vercel.app/api?username=chedva-josefsberg&show_icons=true&theme=radical)
+![שפות מובילות](https://github-readme-stats.vercel.app/api/top-langs/?username=chedva-josefsberg&layout=compact&theme=radical)
+
 
 ---
 
