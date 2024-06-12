@@ -8,7 +8,7 @@
 📞 **Phone:** 055-677-3861  
 📧 **Email:** [chedva0556773861@gmail.com](mailto:chedva0556773861@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)]((https://github.com/chedva-josefsberg))
 
 ---
 
