@@ -1,7 +1,6 @@
-
 # 👋 Hello, I'm Chedva Josefsberg
 
-![צפיות בפרופיל](https://komarev.com/ghpvc/?username=chedva-josefsberg&color=blueviolet)
+![Profile Views]((https://komarev.com/ghpvc/?username=chedva-josefsberg&color=blueviolet))
 
 ## 💻 Full-Stack Software Engineer
 
@@ -50,11 +49,8 @@ I am a passionate and dedicated Full-Stack Software Engineer with a strong backg
 
 ## 📈 GitHub Stats
 
-
-
-![סטטיסטיקות GitHub של חדווה](https://github-readme-stats.vercel.app/api?username=chedva-josefsberg&show_icons=true&theme=radical)
-![שפות מובילות](https://github-readme-stats.vercel.app/api/top-langs/?username=chedva-josefsberg&layout=compact&theme=radical)
-
+![Chedva's GitHub stats](https://github-readme-stats.vercel.app/api?username=chedva-josefsberg&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chedva-josefsberg&layout=compact&theme=radical)
 
 ---
 
