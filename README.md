@@ -29,7 +29,7 @@ I am a passionate and dedicated Full-Stack Software Engineer with a strong backg
 ### 🚀 Internship Experience
 
 - **Startup Internship Program:**
-  - Developed full-stack applications using C#.NET and Angular17.
+  - Developed full-stack applications using C#.NET ,Angular17 and SQL Server.
   - Managed tasks with ClickUp and version control with GitHub.
   - Worked on projects that contribute to technological innovation.
 
